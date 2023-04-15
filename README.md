@@ -9,8 +9,10 @@ This project is expected to be updated continuously.
 - [x] make it work with vue
 - [x] render in canvas
 - [x] paging
-- [x] text vue
+- [x] text layer
 - [x] dynamic layout
+- [ ] vite local project setup
 - [ ] custom tool bar
 - [ ] not load worker from url
 - [ ] annotation.
+- [ ] right click popup menu
