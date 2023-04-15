@@ -11,6 +11,6 @@ This project is expected to be updated continuously.
 - [x] paging
 - [x] text vue
 - [x] dynamic layout
-- [] custom tool bar
-- [] not load worker from url
-- [] annotation.
+- [ ] custom tool bar
+- [ ] not load worker from url
+- [ ] annotation.
